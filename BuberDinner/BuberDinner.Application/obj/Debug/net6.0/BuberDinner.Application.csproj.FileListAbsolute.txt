@@ -1,0 +1,15 @@
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.deps.json
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.pdb
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Domain.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.CopyComplete
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\refint\BuberDinner.Application.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.pdb
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\ref\BuberDinner.Application.dll

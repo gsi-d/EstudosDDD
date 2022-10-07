@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0XkJLjtVCFVzAC1z7KpWFhLu7WuvooFcCJDzIgjHJYac8yqjqGJgOzbCCWGx6/ETkQt/zk2E6JHUNtRrVoXbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlnote51\\Desktop\\Guilherme\\ProjetosPessoais\\Migracao\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlnote51\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFkc306NFM5KMv9WCDh3ox5U+PaeyL+DcUC/lqd208TxOyNoJ1wJMAHbSX4T/BtiR6XQ/O38DtwQALyR5husHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlnote51\\Desktop\\Guilherme\\ProjetosPessoais\\Migracao\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlnote51\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512",
+    "C:\\Users\\vlnote51\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

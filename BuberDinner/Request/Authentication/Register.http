@@ -1,0 +1,10 @@
+@host=https://localhost:7086
+POST {{host}}/auth/register
+Content-Type: application/json
+
+{
+    "firstName":"Guilherme",
+    "lastName":"Felipe",
+    "email":"guilherme_f_da-silva@estudante.sc.senai",
+    "password":"12345"
+}
