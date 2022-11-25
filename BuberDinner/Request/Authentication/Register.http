@@ -3,8 +3,8 @@ POST {{host}}/auth/register
 Content-Type: application/json
 
 {
-    "firstName":"Guilherme",
-    "lastName":"Felipe",
-    "email":"guilherme_f_da-silva@estudante.sc.senai",
-    "password":"12345"
+    "firstName":"",
+    "lastName":"",
+    "email":"guilherme-silva@estudante.sc.senai",
+    "password":"123456"
 }

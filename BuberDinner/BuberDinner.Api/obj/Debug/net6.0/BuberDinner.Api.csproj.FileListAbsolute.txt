@@ -35,3 +35,16 @@ C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberD
 C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.genruntimeconfig.cache
 C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\ref\BuberDinner.Api.dll
 C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\Migracao\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.Core.dll
