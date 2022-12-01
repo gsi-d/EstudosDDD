@@ -20,4 +20,9 @@ public sealed class HostId : ValueObject
     {
         yield return Value;
     }
+
+    public static HostId Create(string hostId)
+    {
+        return HostId.CreateUnique();
+    }
 }

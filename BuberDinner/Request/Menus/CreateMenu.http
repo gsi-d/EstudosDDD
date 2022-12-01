@@ -1,0 +1,14 @@
+@host=https://localhost:7086
+
+@token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJnaXZlbl9uYW1lIjoiR3VpbGhlcm1lIiwiZmFtaWx5X25hbWUiOiJGZWxpcGUiLCJ1bmlxdWVfbmFtZSI6Ijk3ZjM1NGRkLTE1MzctNGVhMi1hMTNkLTMwNDYwYTRjMDZhOSIsImV4cCI6MTY2OTc1MDk1NywiaXNzIjoiQnViZXJEaW5uZXIiLCJhdWQiOiJCdWJlckRpbm5lciJ9.y-QnpcxIgbpzA6kzP6am-JMFOHSfSzU4Cj908P_ttCE
+
+@hostId=
+POST {{host}}/hosts/{{hostId}}/menus
+Content-Type: application/json
+Authorization: Bearer {{token}}
+{
+    "firstName":"",
+    "lastName":"",
+    "email":"guilherme-silva@estudante.sc.senai",
+    "password":"123456"
+}
